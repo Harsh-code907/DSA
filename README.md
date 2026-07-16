@@ -2,8 +2,9 @@
 
 A structured, clean, and optimized collection of competitive programming solutions for Codeforces problems. This repository serves as a personal archive and a reference guide for algorithmic patterns, data structures, and mathematical insights.
 
-![Codeforces Header Banner](https://shields.io)
-![Languages](https://shields.io)
+| 🏆 Platforms | 💻 Core Stack |
+| :--- | :--- |
+| **Codeforces:** `Active Solutions` | **Languages:** `C++17` \| `Python 3` |
 
 ---
 
